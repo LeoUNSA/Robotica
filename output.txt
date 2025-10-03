@@ -1,0 +1,30 @@
+=== RESULTADOS DEL ALGORITMO BMSSP ===
+Límite (bound): 15
+Fuentes: 0 1 2 
+Tiempo de ejecución: 0.000023 segundos
+Tiempo de ejecución: 0.023 milisegundos
+
+--- DESDE FUENTE 0 ---
+Vértices alcanzables:
+  Vértice 0 -> Distancia: 0
+  Vértice 1 -> Distancia: 4
+  Vértice 2 -> Distancia: 2
+  Vértice 3 -> Distancia: 9
+  Vértice 4 -> Distancia: 11
+  Vértice 5 -> Distancia: 14
+
+--- DESDE FUENTE 1 ---
+Vértices alcanzables:
+  Vértice 1 -> Distancia: 0
+  Vértice 2 -> Distancia: 1
+  Vértice 3 -> Distancia: 5
+  Vértice 4 -> Distancia: 7
+  Vértice 5 -> Distancia: 10
+
+--- DESDE FUENTE 2 ---
+Vértices alcanzables:
+  Vértice 2 -> Distancia: 0
+  Vértice 3 -> Distancia: 8
+  Vértice 4 -> Distancia: 10
+  Vértice 5 -> Distancia: 13
+
