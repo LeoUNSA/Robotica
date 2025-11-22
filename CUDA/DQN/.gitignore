@@ -1,0 +1,47 @@
+# .gitignore para proyecto DQN CUDA
+
+# Ejecutables
+dqn_train
+*.out
+*.exe
+
+# Archivos objeto
+*.o
+*.obj
+
+# Modelos entrenados
+*.bin
+*.h5
+*.pth
+*.pt
+
+# Directorios de build
+build/
+bin/
+obj/
+cmake-build-*/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+training_logs/
+
+# Datos temporales
+*.tmp
+tmp/
